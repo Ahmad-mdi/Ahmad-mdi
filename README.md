@@ -10,7 +10,7 @@ Java developer specialized in Spring Boot, with a strong focus on building scala
 - 🏗️ I’m currently working on **large-scale systems**
 - ☁️ Learning **Cloud Technologies**
 - 🤝 Looking to collaborate on **Cloud and Java projects**
-- 📌 All of my projects are available at: https://github.com/USERNAME
+- 📌 All of my projects are available at: https://github.com/Ahmad-mdi
 - 💬 Ask me about **Java, Spring, Cloud**
 - 📫 How to reach me: **admimohammadi@gmail.com**
 - 🔗 Know more: https://www.linkedin.com/in/ahmd-mohammadi/
@@ -44,6 +44,6 @@ Java developer specialized in Spring Boot, with a strong focus on building scala
 
 ### 📊 Most Used Languages
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmd-mdi&layout=compact"/>
 </p>
 
