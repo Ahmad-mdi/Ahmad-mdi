@@ -32,18 +32,27 @@ Java developer specialized in Spring Boot, with a strong focus on building scala
 <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/48/spring-logo.png"/>
 <img src="https://img.icons8.com/color/48/docker.png"/>
-<img src="https://img.icons8.com/color/48/kubernetes.png"/>
 <img src="https://img.icons8.com/color/48/linux.png"/>
 <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/postgresql-logo.png"/>
+<img src="https://img.icons8.com/color/48/postgresql.png"/>
 <img src="https://img.icons8.com/color/48/redis.png"/>
-<img src="https://img.icons8.com/color/48/javascript.png"/>
 </p>
 
 ---
 
 ### 📊 Most Used Languages
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmd-mdi&layout=compact"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Mdi&layout=compact&theme=vue&langs_count=8" />
 </p>
+
+### 🔥 Streak Stats
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Ahmad-Mdi&theme=vue" />
+</p>
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Mdi&show_icons=true&theme=vue" />
+</p>
+
 
