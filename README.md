@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Mohammadi</h1>
 
 <p align="left">
-Java developer specialized in Spring Boot, with a strong focus on building scalable and reliable microservice architectures passionate about solving complex challenges and crafting smart solutions.
+  Java developer specialized in Spring Boot, with a strong focus on building scalable and reliable microservice architectures passionate about solving complex challenges and crafting smart solutions.
 </p>
 
 ---
@@ -13,29 +13,29 @@ Java developer specialized in Spring Boot, with a strong focus on building scala
 - 📌 All of my projects are available at: **https://github.com/Ahmad-mdi**
 - 💬 Ask me about **Java, Spring Boot, Microservices, Cloud, Scalable Systems**
 - 📫 How to reach me: **admimohammadi@gmail.com**
-- 🔗 Know more: **https://www.linkedin.com/in/ahmd-mohammadi/**
+- 🔗 Know more: **https://www.linkedin.com/in/ahmd-mohammadi**
 - ⚡ Fun fact: I work hard, learn fast, and smile often 😄
 
 ---
 
 ### 🌐 Connect with me
 <p>
-<a href="https://www.linkedin.com/in/ahmd-mohammadi/" target="_blank">
-<img src="https://img.icons8.com/color/48/linkedin.png"/>
-</a>
+  <a href="https://www.linkedin.com/in/ahmd-mohammadi/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools
 <p>
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/spring-logo.png"/>
-<img src="https://img.icons8.com/color/48/docker.png"/>
-<img src="https://img.icons8.com/color/48/linux.png"/>
-<img src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/postgresql.png"/>
-<img src="https://img.icons8.com/color/48/redis.png"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png"/>
+  <img src="https://img.icons8.com/color/48/docker.png"/>
+  <img src="https://img.icons8.com/color/48/linux.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/postgresql.png"/>
+  <img src="https://img.icons8.com/color/48/redis.png"/>
 </p>
 
 ---
