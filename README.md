@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Mohammadi</h1>
 
 <p align="center">
-I have experience in development, system integration, performance tuning using Java EE frameworks and IBM products in the banking system. My current technical focus is on cloud technologies and high-performance architectures.
+Java developer specialized in Spring Boot, with a strong focus on building scalable and reliable microservice architectures passionate about solving complex challenges and crafting smart solutions.
 </p>
 
 ---
@@ -12,15 +12,15 @@ I have experience in development, system integration, performance tuning using J
 - 🤝 Looking to collaborate on **Cloud and Java projects**
 - 📌 All of my projects are available at: https://github.com/USERNAME
 - 💬 Ask me about **Java, Spring, Cloud**
-- 📫 How to reach me: **YOUR_EMAIL**
-- 🔗 Know more: https://www.linkedin.com/in/YOUR_LINKEDIN
+- 📫 How to reach me: **admimohammadi@gmail.com**
+- 🔗 Know more: https://www.linkedin.com/in/ahmd-mohammadi/
 - ⚡ Fun fact: *I'm a hard worker and a laughing stock 😄*
 
 ---
 
 ### 🌐 Connect with me
 <p>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/ahmd-mohammadi/" target="_blank">
 <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 </p>
@@ -35,7 +35,7 @@ I have experience in development, system integration, performance tuning using J
 <img src="https://img.icons8.com/color/48/kubernetes.png"/>
 <img src="https://img.icons8.com/color/48/linux.png"/>
 <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/oracle-logo.png"/>
+<img src="https://img.icons8.com/color/48/postgresql-logo.png"/>
 <img src="https://img.icons8.com/color/48/redis.png"/>
 <img src="https://img.icons8.com/color/48/javascript.png"/>
 </p>
