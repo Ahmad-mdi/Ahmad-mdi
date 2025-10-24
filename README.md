@@ -40,19 +40,19 @@
 
 ---
 
-### 📊 Most Used Languages
+
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Mdi&layout=compact&theme=vue&langs_count=8" />
 </p> -->
 
-### 🔥 Streak Stats
+
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Ahmad-Mdi&theme=vue" />
 </p>
 
-### 📈 GitHub Stats
-<p align="left">
+
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Mdi&show_icons=true&theme=vue" />
-</p>
+</p> -->
 
 
