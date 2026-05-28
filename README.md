@@ -29,13 +29,13 @@
 
 ### 🛠️ Languages and Tools
 <p>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/spring-logo.png"/>
-  <img src="https://img.icons8.com/color/48/docker.png"/>
-  <img src="https://img.icons8.com/color/48/linux.png"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/postgresql.png"/>
-  <img src="https://img.icons8.com/color/48/redis.png"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/redis.png" alt="Redis" width="48" height="48"/>
 </p>
 
 ---
